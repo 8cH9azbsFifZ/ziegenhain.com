@@ -3,6 +3,5 @@ Website: ziegenhain.com
 https://8ch9azbsfifz.github.io/ziegenhain.com/
 
 # TODO
-- Update deps: https://github.com/startbootstrap/startbootstrap-grayscale
+- Route ziegenhain.com to this page again
 - Add CNAME to domain
-- 
